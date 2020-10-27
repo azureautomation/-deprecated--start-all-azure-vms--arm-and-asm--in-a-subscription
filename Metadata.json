@@ -1,0 +1,20 @@
+{
+    "Author": "Farouk Friha",
+    "ContentSize": 5008,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/(deprecated)-start-all-azure-vms-(arm-and-asm)-in-a-subscription/master/Start-AzureVMs.ps1",
+    "DownloadCount": 777,
+    "Id": "Start-all-Azure-VMs-ARM-2efdb08f",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 324,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-3-5T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook connects to Azure and starts all VMs (ASM and ARM) in the specified Azure subscription. You can attach a schedule to this runbook to run it at a specific time. A pretty simple runbook to start with Azure Automation.",
+    "Title": "(Deprecated) Start all Azure VMs (ARM and ASM) in a subscription",
+    "UpdatedDate": "2019-5-19T00:00:00",
+    "Url": "https://github.com/azureautomation/(deprecated)-start-all-azure-vms-(arm-and-asm)-in-a-subscription",
+    "UserTags": "Powershell, Azure Automation, Microsoft Azure Virtual Machines"
+}
